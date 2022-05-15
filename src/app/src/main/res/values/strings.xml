@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HomeWork</string>
+    <string name="head_name">网上签约平台</string>
+    <string name="bottom_chat">私信</string>
+    <string name="bottom_people">找伙伴</string>
+    <string name="bottom_find">找项目</string>
+    <string name="bottom_personal">我</string>
+    <string name="fragment_chat">这是私信界面</string>
+    <string name="fragment_people">这是伙伴列表界面</string>
+    <string name="fragment_find">这是项目列表界面</string>
+    <string name="fragment_personal">这是个人界面</string>
+</resources>
